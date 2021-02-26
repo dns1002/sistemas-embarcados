@@ -1,0 +1,11 @@
+lab01.pbi: C:\ti\Projetos\EK-TM4C1294_IAR8-master\Projects\lab01\lab01.c \
+  C:\Program\ Files\EWARM\arm\inc\c\stdint.h \
+  C:\Program\ Files\EWARM\arm\inc\c\ycheck.h \
+  C:\Program\ Files\EWARM\arm\inc\c\yvals.h \
+  C:\Program\ Files\EWARM\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\EWARM\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\EWARM\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\EWARM\arm\inc\c\stdbool.h \
+  C:\ti\Projetos\EK-TM4C1294_IAR8-master\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h \
+  C:\ti\Projetos\EK-TM4C1294_IAR8-master\TivaWare_C_Series-2.1.4.178\driverlib/gpio.h \
+  C:\ti\Projetos\EK-TM4C1294_IAR8-master\TivaWare_C_Series-2.1.4.178\driverlib/sysctl.h

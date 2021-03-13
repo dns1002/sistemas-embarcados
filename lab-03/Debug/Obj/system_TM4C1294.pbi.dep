@@ -1,0 +1,15 @@
+system_TM4C1294.pbi: \
+  C:\ti\Projetos\EK-TM4C1294_IAR8-master\Projects\lab-03\src\system_TM4C1294.c \
+  C:\Program\ Files\EWARM\arm\inc\c\stdint.h \
+  C:\Program\ Files\EWARM\arm\inc\c\ycheck.h \
+  C:\Program\ Files\EWARM\arm\inc\c\yvals.h \
+  C:\Program\ Files\EWARM\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\EWARM\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\EWARM\arm\inc\c\DLib_Product.h \
+  C:\ti\Projetos\EK-TM4C1294_IAR8-master\Projects\lab-03\src/TM4C1294NCPDT.h \
+  C:\Program\ Files\EWARM\arm\CMSIS\Core\Include\core_cm4.h \
+  C:\Program\ Files\EWARM\arm\CMSIS\Core\Include/cmsis_version.h \
+  C:\Program\ Files\EWARM\arm\CMSIS\Core\Include/cmsis_compiler.h \
+  C:\Program\ Files\EWARM\arm\CMSIS\Core\Include\cmsis_iccarm.h \
+  C:\Program\ Files\EWARM\arm\inc\c\iccarm_builtin.h \
+  C:\ti\Projetos\EK-TM4C1294_IAR8-master\Projects\lab-03\src/system_TM4C1294.h

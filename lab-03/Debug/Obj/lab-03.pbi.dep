@@ -1,0 +1,10 @@
+lab-03.pbi: \
+  C:\ti\Projetos\EK-TM4C1294_IAR8-master\Projects\lab-03\src\driverleds.h \
+  C:\Program\ Files\EWARM\arm\inc\c\stdbool.h \
+  C:\Program\ Files\EWARM\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\EWARM\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\EWARM\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\EWARM\arm\inc\c\yvals.h \
+  C:\Program\ Files\EWARM\arm\inc\c\ycheck.h \
+  C:\Program\ Files\EWARM\arm\inc\c\stdint.h \
+  C:\ti\Projetos\EK-TM4C1294_IAR8-master\Projects\lab-03\src\lab-03.c

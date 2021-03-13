@@ -1,0 +1,29 @@
+#Generating source browse information for project lab-03
+
+
+#Abbreviations
+cc = C$:\Program$ Files\EWARM\common\bin\SourceIndexer.exe
+ll = C$:\Program$ Files\EWARM\common\bin\PbdLink.exe
+bd = C$:\Program$ Files\EWARM\common\bin\makeBrowseData.exe
+
+
+
+#Rules
+rule index
+  depfile = $out.dep
+  command = $cc -out=$out -f $in
+rule link
+  command = $ll -M $out $in
+rule browsedata
+  command = $bd $in -output  $out
+
+
+
+#Build steps
+build driverleds.pbi : index driverleds.xcl
+build lab-03.pbi : index lab-03.xcl
+build system_TM4C1294_TW.pbi : index system_TM4C1294_TW.xcl
+build lab-03.pbd : link driverleds.pbi lab-03.pbi system_TM4C1294_TW.pbi
+build lab-03.pbw : browsedata lab-03.pbd
+
+

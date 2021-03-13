@@ -1,0 +1,13 @@
+"C:\Program Files\EWARM\arm\bin\armproc.dll" 
+
+"C:\Program Files\EWARM\arm\bin\armsim2.dll" 
+
+"C:\ti\Projetos\EK-TM4C1294_IAR8-master\Projects\lab-03\Debug\Exe\lab-03.out" 
+
+--plugin="C:\Program Files\EWARM\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files\EWARM\arm\config\debugger\TexasInstruments\TM4C129.dmac" 
+
+
+
+
